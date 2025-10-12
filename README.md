@@ -1,5 +1,4 @@
 # wiredy
-## This is Still in devlopment plz report any bugs, thank you.
 ## 📥 Installation Guide
 weirdy is possible to play with for now with this verison --> 1.20.1 fabric more versions possible later.
 
@@ -38,3 +37,4 @@ GPUS from 5-4 year ago work normal but good perfomance you need 3 year old ones 
 ## 🐛 How to Report Issues
 Please use the [Issue Tracker](https://github.com/nickdelfieh/Report-wiredy-problems) linked at the top of the page to report bugs, crashes, and other issues. Make sure you include information about the mods you are using, and attach any crash/log files you have.
 **_Super thank you if you follow the project and support it💗._**
+### This is Still in devlopment plz report any bugs, thank you.
