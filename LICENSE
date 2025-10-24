@@ -1,22 +1,45 @@
-MIT License
+Nickdelfieh Game Add-On License v1.1
+(for Minecraft Mods)
 
 Copyright (c) 2025 nickdelfieh
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify and copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to use, copy, and include this Software in modpacks,
+provided that the following conditions are met:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software and to not publish it in anyway if you modifyed it.
+1. Credit is always required:
+   Any distribution must state: "Created by nickdelfieh",
+   and provide a link to the official source if available.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE AND
-NOT , MERGE, PUBLISH, DISTRIBUTE, SUBLICENSE, 
-SOFTWARE AND THIS SOFTWARE IS NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
-AND THIS PROJECT IS ONLY AN MINECRAFT MOD SO ITS NOT ANY OF THIS: OS, DRIVER, APP, GAME, WEBSITE. BUT ITS AN GAME ADD-ON SO MOJANG OR MICROSOFT HAVE THE PERMISSION TO DELETE THIS PROJECT AND DO ANYTHING WITH IT BUT NOT THE COPYRIGHT IN ANYWAY
+2. No publishing of modified versions:
+   Modifications for personal use are allowed,
+   but modified versions may not be redistributed or uploaded anywhere.
+
+3. No commercial use:
+   You may NOT sell, rent, or profit from this Software
+   or any derivative works.
+
+4. Ownership remains with the author:
+   Copyright stays with the original creator.
+   You may not claim authorship or remove copyright notices.
+
+--------------------------------------------------------------------------
+
+Minecraft & Platform Legal Notices
+
+This mod is a user-created add-on for the game Minecraft.
+Not an official Minecraft product.
+Not approved by or associated with Mojang or Microsoft.
+
+Mojang and Microsoft maintain control over Minecraft and its services.
+If this project is found to violate their rules, they may request its removal.
+Such a request does NOT transfer copyright ownership.
+
+--------------------------------------------------------------------------
+
+Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES OR LOSSES RESULTING FROM
+THE USE OF THIS SOFTWARE UNDER ANY LEGAL THEORY.
