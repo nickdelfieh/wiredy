@@ -25,7 +25,7 @@ the cat dimension with me holding the power tool!!
 -  an OP tool named "power"
 
 ## 📥 Installation Guide
-go to ![download page in modrinth](https://www.modrinth.com/wierdy))
+go to [download page in modrinth](https://www.modrinth.com/wierdy)
 weirdy is possible to play with for now with this verison --> 1.20.1 fabric and neoforge 1.21.4 more versions possible later.
 
 **Not sure if you installed the mod correctly?**
