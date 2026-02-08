@@ -1,4 +1,3 @@
-
 **This is Still in devlopment plz report any bugs, thank you.**
 ## 📖 What's this mod?
 it adds a cat dimension and a tool named power and a block named meow and etc.
@@ -23,10 +22,11 @@ the cat dimension with me holding the power tool!!
 -  an Dimension named "cat"
 -  an biome named "cat"
 -  an OP tool named "power"
+-  an random block named D (changes nothing)
+-  an weird villager profession
 
 ## 📥 Installation Guide
-go to [download page in modrinth](https://www.modrinth.com/wierdy)
-weirdy is possible to play with for now with this verison --> 1.20.1 fabric and neoforge 1.21.4 more versions possible later.
+weirdy is possible to play with for now with this verison --> 1.20.1 fabric more versions possible later.
 
 **Not sure if you installed the mod correctly?**
 1. check that you are useing the latest version of fabric or any other mod loader
